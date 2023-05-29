@@ -7,6 +7,9 @@ build_command = 'python -m rezutil build {root} --ignore backup'
 private_build_requires = ["rezutil"]
 
 requires = [
+        "python-3",
+        "GitPython",
+        "PyGithub"
 ]
 
 

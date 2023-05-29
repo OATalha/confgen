@@ -1,1 +1,1 @@
-from confgen import generate_pyright_conf
+from .confgen import generate_pyright_conf
