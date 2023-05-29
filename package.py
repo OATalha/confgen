@@ -13,4 +13,4 @@ requires = [
 def commands():
     env.PYTHONPATH.prepend("{root}/python")
 
-    alias("confgen", "python {root}/python/confgen.py")
+    alias("confgen", "python -m confgen")

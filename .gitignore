@@ -9,6 +9,8 @@ __pycache__/
 !.dockerfile
 !.github/
 
+./test_area
+
 # virtual environment
 venv*/
 

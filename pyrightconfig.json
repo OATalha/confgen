@@ -1,0 +1,14 @@
+{
+  "include": [
+    "./python"
+  ],
+  "extraPaths": [
+    "/Volumes/profiles/tahmed/Repos/sapper_excludes/completion/maya/2018/py",
+    "/opt/rh/llvm-toolset-7/root/usr/lib/python2.7/site-packages"
+  ],
+  "venvPath": "/Volumes/profiles/tahmed/.virtualenvs",
+  "venv": "devenv379",
+  "pythonVersion": 3.7,
+  "pythonPlatform": "Linux",
+  "typeCheckingMode": "on"
+}
